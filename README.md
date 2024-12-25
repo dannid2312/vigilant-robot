@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# ✨ E-Commerce Dataset Review ✨
 
 ## Setup Environment - Anaconda
 ```
